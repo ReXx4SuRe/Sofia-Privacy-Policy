@@ -2,7 +2,7 @@
 
 Privacy Policy for Sofia Discord Bot
 
-At Sofia, accessible from https://discord.com/oauth2/authorize?client_id=1254432431893774446&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Sofia and how we use it.
+At Sofia, accessible from https://discord.com/oauth2/authorize?client_id=1166742072070512640&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Sofia and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
